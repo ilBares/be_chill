@@ -1,0 +1,3 @@
+class GetUserInformations {
+  GetUserInformations({required});
+}
